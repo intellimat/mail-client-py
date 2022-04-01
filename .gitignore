@@ -1,5 +1,5 @@
-# Credentials for email address
-Credentials.json
+# Data needed for sending mails
+configs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
